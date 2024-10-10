@@ -1,0 +1,101 @@
+Campaign_ID,Campaign_Type,Discount_Type,Targeted_Category,Start_Date,End_Date
+1,Limited Time Offer,Fixed Amount Off,Dairy,2021-10-01,2021-10-15
+2,New Product Launch,Percentage Off,Beverages,2022-11-22,2022-12-04
+3,Holiday Sale,Buy One Get One Free,Beverages,2021-11-18,2021-12-07
+4,New Product Launch,Percentage Off,Bakery,2021-04-04,2021-04-27
+5,New Product Launch,Fixed Amount Off,Frozen,2022-08-12,2022-08-27
+6,Social Media Ad,Fixed Amount Off,Personal Care,2021-04-14,2021-05-12
+7,Holiday Sale,Buy One Get One Free,Dairy,2023-10-30,2023-11-01
+8,Holiday Sale,Percentage Off,Dairy,2022-11-11,2022-11-13
+9,Holiday Sale,Fixed Amount Off,Snacks,2022-01-19,2022-02-11
+10,New Product Launch,Buy One Get One Free,Beverages,2024-08-20,2024-09-11
+11,Limited Time Offer,Fixed Amount Off,Personal Care,2020-02-07,2020-02-26
+12,Holiday Sale,Fixed Amount Off,Cereals,2020-08-17,2020-09-11
+13,New Product Launch,Percentage Off,Bakery,2023-10-20,2023-11-15
+14,Social Media Ad,Fixed Amount Off,Frozen,2021-07-16,2021-08-14
+15,Limited Time Offer,Percentage Off,Cleaning,2021-03-13,2021-04-04
+16,Social Media Ad,Fixed Amount Off,Frozen,2023-07-30,2023-08-25
+17,Limited Time Offer,Buy One Get One Free,Produce,2020-01-27,2020-02-22
+18,New Product Launch,Fixed Amount Off,Dairy,2020-08-13,2020-09-04
+19,Email Blast,Percentage Off,Bakery,2023-07-24,2023-08-10
+20,Limited Time Offer,Percentage Off,Produce,2022-03-08,2022-03-28
+21,Social Media Ad,Buy One Get One Free,Personal Care,2024-06-20,2024-06-30
+22,New Product Launch,Fixed Amount Off,Cleaning,2020-10-10,2020-10-16
+23,Limited Time Offer,Fixed Amount Off,Beverages,2022-05-28,2022-06-12
+24,Email Blast,Buy One Get One Free,Bakery,2022-08-17,2022-09-08
+25,Email Blast,Fixed Amount Off,Bakery,2024-02-13,2024-02-24
+26,Holiday Sale,Fixed Amount Off,Dairy,2021-03-28,2021-04-25
+27,Holiday Sale,Percentage Off,Meat,2022-10-16,2022-10-21
+28,Social Media Ad,Fixed Amount Off,Bakery,2022-03-26,2022-03-27
+29,Limited Time Offer,Fixed Amount Off,Snacks,2021-10-20,2021-10-28
+30,Limited Time Offer,Buy One Get One Free,Cleaning,2024-03-19,2024-04-09
+31,Holiday Sale,Buy One Get One Free,Cleaning,2021-06-30,2021-07-28
+32,Limited Time Offer,Percentage Off,Snacks,2023-04-30,2023-05-12
+33,Limited Time Offer,Fixed Amount Off,Cereals,2022-12-08,2022-12-20
+34,Email Blast,Fixed Amount Off,Snacks,2024-03-15,2024-03-20
+35,Holiday Sale,Fixed Amount Off,Snacks,2020-01-17,2020-01-24
+36,New Product Launch,Percentage Off,Cleaning,2023-04-10,2023-04-14
+37,Holiday Sale,Percentage Off,Frozen,2023-05-28,2023-06-03
+38,New Product Launch,Buy One Get One Free,Cleaning,2020-06-06,2020-06-19
+39,Email Blast,Percentage Off,Meat,2021-04-21,2021-05-11
+40,Social Media Ad,Fixed Amount Off,Dairy,2022-12-05,2022-12-20
+41,Limited Time Offer,Fixed Amount Off,Produce,2023-10-28,2023-10-31
+42,Email Blast,Percentage Off,Frozen,2021-06-01,2021-06-24
+43,Limited Time Offer,Fixed Amount Off,Beverages,2020-04-08,2020-04-16
+44,Social Media Ad,Fixed Amount Off,Produce,2024-11-03,2024-11-23
+45,Social Media Ad,Percentage Off,Dairy,2022-11-26,2022-12-12
+46,Email Blast,Percentage Off,Meat,2020-10-06,2020-10-19
+47,Social Media Ad,Fixed Amount Off,Meat,2023-10-04,2023-10-22
+48,New Product Launch,Fixed Amount Off,Beverages,2021-05-11,2021-06-08
+49,Social Media Ad,Fixed Amount Off,Frozen,2020-10-28,2020-11-07
+50,Limited Time Offer,Buy One Get One Free,Cereals,2020-06-29,2020-07-18
+51,Limited Time Offer,Buy One Get One Free,Snacks,2021-08-29,2021-09-15
+52,Limited Time Offer,Buy One Get One Free,Frozen,2023-01-27,2023-02-20
+53,Limited Time Offer,Percentage Off,Cereals,2021-11-30,2021-12-19
+54,New Product Launch,Buy One Get One Free,Meat,2022-09-19,2022-10-17
+55,Holiday Sale,Percentage Off,Cleaning,2023-02-13,2023-03-11
+56,Email Blast,Percentage Off,Dairy,2020-07-09,2020-08-01
+57,Limited Time Offer,Buy One Get One Free,Beverages,2020-09-09,2020-10-05
+58,Social Media Ad,Buy One Get One Free,Dairy,2022-09-07,2022-09-12
+59,Limited Time Offer,Buy One Get One Free,Personal Care,2022-07-16,2022-08-11
+60,Social Media Ad,Fixed Amount Off,Personal Care,2023-03-30,2023-04-20
+61,Social Media Ad,Buy One Get One Free,Frozen,2023-07-03,2023-07-26
+62,Limited Time Offer,Fixed Amount Off,Meat,2023-09-08,2023-09-17
+63,New Product Launch,Percentage Off,Meat,2020-05-07,2020-05-19
+64,Social Media Ad,Fixed Amount Off,Snacks,2020-01-18,2020-02-08
+65,Social Media Ad,Buy One Get One Free,Snacks,2024-10-24,2024-10-25
+66,Limited Time Offer,Percentage Off,Snacks,2021-07-19,2021-08-14
+67,Social Media Ad,Percentage Off,Cleaning,2021-07-23,2021-08-18
+68,Social Media Ad,Percentage Off,Produce,2023-09-08,2023-09-09
+69,Limited Time Offer,Fixed Amount Off,Bakery,2021-11-16,2021-12-01
+70,Limited Time Offer,Buy One Get One Free,Produce,2021-09-17,2021-09-19
+71,Email Blast,Percentage Off,Dairy,2023-08-04,2023-08-26
+72,New Product Launch,Percentage Off,Produce,2022-05-03,2022-05-19
+73,New Product Launch,Percentage Off,Cleaning,2024-08-13,2024-09-07
+74,Social Media Ad,Fixed Amount Off,Dairy,2022-08-19,2022-08-27
+75,New Product Launch,Fixed Amount Off,Produce,2024-07-20,2024-08-02
+76,Social Media Ad,Buy One Get One Free,Cleaning,2020-06-03,2020-06-24
+77,Email Blast,Fixed Amount Off,Bakery,2021-05-04,2021-05-05
+78,Limited Time Offer,Percentage Off,Produce,2023-11-10,2023-11-26
+79,Limited Time Offer,Buy One Get One Free,Cleaning,2022-02-23,2022-03-24
+80,Limited Time Offer,Percentage Off,Snacks,2023-02-01,2023-02-08
+81,New Product Launch,Percentage Off,Meat,2023-11-17,2023-11-22
+82,Email Blast,Fixed Amount Off,Snacks,2020-09-02,2020-09-24
+83,New Product Launch,Buy One Get One Free,Meat,2023-04-14,2023-05-13
+84,New Product Launch,Fixed Amount Off,Beverages,2022-11-28,2022-12-21
+85,Email Blast,Fixed Amount Off,Beverages,2024-02-09,2024-02-12
+86,Email Blast,Buy One Get One Free,Beverages,2024-09-01,2024-09-13
+87,Email Blast,Percentage Off,Bakery,2022-01-28,2022-02-23
+88,Email Blast,Percentage Off,Snacks,2021-06-21,2021-07-07
+89,Limited Time Offer,Buy One Get One Free,Meat,2022-07-09,2022-07-28
+90,Holiday Sale,Percentage Off,Cleaning,2021-02-11,2021-02-16
+91,Holiday Sale,Buy One Get One Free,Dairy,2021-06-08,2021-06-30
+92,Email Blast,Buy One Get One Free,Cleaning,2022-04-07,2022-05-02
+93,Holiday Sale,Fixed Amount Off,Dairy,2024-03-09,2024-04-07
+94,Holiday Sale,Buy One Get One Free,Personal Care,2022-06-21,2022-07-05
+95,Email Blast,Fixed Amount Off,Cleaning,2020-02-05,2020-03-04
+96,Holiday Sale,Percentage Off,Produce,2021-11-15,2021-11-20
+97,New Product Launch,Percentage Off,Produce,2020-01-20,2020-02-04
+98,Social Media Ad,Percentage Off,Frozen,2020-11-16,2020-12-03
+99,Social Media Ad,Percentage Off,Snacks,2021-05-26,2021-06-09
+100,Email Blast,Fixed Amount Off,Dairy,2021-02-03,2021-02-23
